@@ -12,10 +12,9 @@ It includes as well a python version of the Method of Moving Asymptotes (MMA) op
 Four test cases are currently implemented in the provided python code: The MBB beam, the short cantiliever beam, the L-shape beam and a Wing Rib.
 
 1. **Generalized_projection.py**: Python script that contains the main code.
-2. **Generalized_projection.m**: To validate the python results, they can be compared to this matlab implementation [1].
-3. **Generalized_projection.ipnyb**: Jupiter script containing runs for the different cases provided with their graphical solutions.
-4. **MMA Solver Python**: Python translation of the Method of Moving Asymptotes (MMA) optimization solver [5].
-5. **Top_Rib_MNA**: Python script using MNA [3] to optimize a Wing Rib. 
+2. **Generalized_projection.ipnyb**: Jupiter script containing runs for the different cases provided with their graphical solutions.
+3. **MMA Solver Python**: Python translation of the Method of Moving Asymptotes (MMA) optimization solver [5].
+4. **Top_Rib_MNA**: Python script using MNA [3] to optimize a Wing Rib. 
 
 
 # References
